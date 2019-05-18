@@ -34,6 +34,9 @@ mint.intuit.com###moduleAccounts-investment > .accounts-adv[href^="/investment.e
 
 ! Transactions page.
 
+! Large banner ad under tabs.
+mint.intuit.com##.promotions-personalized-offers-ui
+
 ! Ad under totals.
 mint.intuit.com###TopTxnOfferWidget
 
